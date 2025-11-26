@@ -7,3 +7,5 @@ Quais os 3 componentes principais do Git
 Os 3 componentes principais do Git são,
 
 H- git unstage
+
+J- este comando limpa os ficheiros do diretório.
