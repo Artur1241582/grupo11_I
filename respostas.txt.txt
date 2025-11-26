@@ -1,3 +1,7 @@
 Diga 2 desvantagens dos Sistemas de controlo de Versões Centralizados e descreva-as.
 
 Duas desvantagens são, 
+
+Quais os 3 componentes principais do Git
+
+Os 3 componentes principais do Git são,
