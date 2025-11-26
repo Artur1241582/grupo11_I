@@ -1,0 +1,6 @@
+G- Stashing é quando eu quero fazer alguma alteração em outra branch e não quero dar commit das alterações que tenho na minha branch e tenho que 
+as deixar em standby, então usa-se o stash. Caso eu não queira continuar o que estava a fazer, descarto o que tinha feito ou se quiser continuar
+restauro.
+
+F- O ReadMe basicamente é a página de entrada/bilhete de boas-vindas do nosso repositório, é onde damos a conhecer à pessoa que esteja a ler ou a visualizar
+o nosso repositório em que é que consiste o projeto que estamos a desenvolver.
