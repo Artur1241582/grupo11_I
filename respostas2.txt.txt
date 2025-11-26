@@ -1,0 +1,3 @@
+F- Stashing é quando eu quero fazer alguma alteração em outra branch e não quero dar commit das alterações que tenho na minha branch e tenho que 
+as deixar em standby, então usa-se o stash. Caso eu não queira continuar o que estava a fazer, descarto o que tinha feito ou se quiser continuar
+restauro.
